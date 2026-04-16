@@ -70,3 +70,7 @@
 ---
 
 ⭐️ **From [@mrshauryasharma](https://github.com/mrshauryasharma)**
+<!-- Snake Animation - My Contributions -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrshauryasharma/mrshauryasharma/output/snake.svg" alt="Snake eating my contributions" />
+</p>
