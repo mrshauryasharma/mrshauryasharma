@@ -1,76 +1,81 @@
-<!-- Animated Header SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaurya+Sharma;Passionate+Frontend+Developer+%F0%9F%9A%80;From+India+%F0%9F%87%AE%F0%9F%87%B3;AI+%26+ML+Enthusiast" alt="Typing SVG" />
-</p>
+# 👨‍💻 Ishaan Kaushik
 
-<!-- Animated Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrshauryasharma&label=Profile%20Views&color=0e75b6&style=flat-square&abbreviated=true" alt="profile views" />
-</p>
+**Electronics & Communication Engineering Student | Arduino Enthusiast | IoT Explorer**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0ff?style=for-the-badge&logo=vercel&logoColor=white&color=cyan)](https://github.com/ishaankaushik)
+[![Email](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaankaushik@example.com)
 
 ---
 
-### 🧑‍💻 About Me
+## 🚀 About Me
 
-- ❤️ Working on **AI & ML** projects (academic + personal)  
-- 🎉 Learning: `Python`, `DSA`, `ML`, `Web Dev`  
-- ✨ Open to collaborate on **Web Dev** & **beginner AI/ML**  
-- 🔭 Seeking help with **advanced AI/ML & real-world projects**  
-- 🌐 Projects: [github.com/mrshauryasharma](https://github.com/mrshauryasharma)  
-- 📝 I write about: *Learning journeys, tech basics, project experiences*  
-- 💬 Ask me about: `Python basics`, `Web Dev`, `Video editing`  
-- 📧 Reach me: **shauryaofficial.in@gmail.com**  
-- 🎥 Fun fact: I mix **creativity + technology** 🎨⚙️
+I'm a first-year B.Tech student in **Electronics and Communication Engineering** at **Gautam Buddha University, Greater Noida**. I have a strong passion for technology, especially in:
 
----
+- 🔌 Electronics & Circuit Design
+- 🤖 Arduino & Embedded Systems
+- 🌐 Internet of Things (IoT)
+- 🧠 Artificial Intelligence & Emerging Tech
 
-### 🚀 Tech Stack (Animated Icons)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb,tensorflow,git,github,vscode" />
-</p>
+I believe in learning by doing — building real projects helps me understand concepts deeply and sharpen my problem-solving skills.
 
 ---
 
-### 📊 GitHub Stats (Animated Cards)
+## 🎓 Education
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrshauryasharma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshauryasharma&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
-</p>
+| Institution | Degree | Year |
+|-------------|--------|------|
+| **Gautam Buddha University**, Greater Noida | B.Tech - Electronics & Communication Engineering | 2025 – Present |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshauryasharma&theme=radical&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</p>
+**Activities:** Coding & Robotics Club · IoT Workshop Participant · Tech Innovation Group
 
 ---
 
-### 🌐 Connect with Me
+## 💻 Technical Skills
 
-<p align="center">
-  <a href="https://twitter.com/MR_SHAURYASHARM" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117&color=1DA1F2" />
-  </a>
-  <a href="mailto:shauryaofficial.in@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=D14836" />
-  </a>
-  <a href="https://github.com/mrshauryasharma">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=181717" />
-  </a>
-</p>
+| Category | Skills |
+|----------|--------|
+| **Languages** | C, C++, Python |
+| **Embedded & IoT** | Arduino, ESP8266, Sensors, Basic IoT Protocols |
+| **Tools** | Git, Firebase, Blynk |
+| **AI/ML** | Basic concepts & fundamentals |
 
 ---
 
-### 🎮 Fun Zone: Snake eating my commits 🐍
+## 🛠️ Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrshauryasharma/mrshauryasharma/output/snake.svg" alt="Snake animation" />
-</p>
+### 🚗 Bluetooth Controlled Car
+Arduino-based robotic car controlled via smartphone using HC-05 Bluetooth module. Features L298N motor driver for smooth navigation and precision movement.
+
+*Tech Stack:* Arduino, HC-05, L298N, Embedded C
+
+### 💡 Motion Based Auto Light
+Intelligent lighting system using PIR motion sensor and Arduino that automatically turns lights on/off when motion is detected. Energy-efficient design for corridors and automation learning.
+
+*Tech Stack:* Arduino, PIR Sensor, Relay Module
 
 ---
 
-⭐️ **From [@mrshauryasharma](https://github.com/mrshauryasharma)**
-<!-- Snake Animation - My Contributions -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrshauryasharma/mrshauryasharma/output/snake.svg" alt="Snake eating my contributions" />
-</p>
+## 📫 Let's Connect
+
+- **GitHub:** [github.com/ishaankaushik](https://github.com/ishaankaushik)
+
+> *"Building practical electronics, curious about emerging tech — from Bluetooth robotics to intelligent lighting."*
+
+---
+
+## 📊 GitHub Stats
+
+![Ishaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishaankaushik&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaankaushik&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 My Philosophy
+
+> Learn → Build → Improve → Repeat
+
+I'm always exploring new tech ideas and working on innovative projects. Check out my repositories to see what I'm currently building!
+
+---
+
+*⭐️ Feel free to fork, star, or contribute to any of my projects!*
