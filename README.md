@@ -1,50 +1,76 @@
-# Aditya Kumar Gupta | AI & IoT Innovator Portfolio
+<!-- Animated Header SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaurya+Sharma;Passionate+Frontend+Developer+%F0%9F%9A%80;From+India+%F0%9F%87%AE%F0%9F%87%B3;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</p>
 
-[![Portfolio Demo](https://img.shields.io/badge/Live-Demo-0ff?style=for-the-badge&logo=github&color=0ff)](https://your-github-pages-link-here) <!-- Replace with your actual live link -->
-[![GitHub](https://img.shields.io/badge/GitHub-mrshauryasharma-181717?style=for-the-badge&logo=github)](https://github.com/mrshauryasharma)
+<!-- Animated Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrshauryasharma&label=Profile%20Views&color=0e75b6&style=flat-square&abbreviated=true" alt="profile views" />
+</p>
 
-Welcome to the official repository of my personal portfolio website. This project showcases my journey, skills, and flagship projects as an **Electronics & Communication Engineering** student, specializing in **AI/ML**, **IoT**, and **Robotics**.
+---
 
-## ✨ Live Preview
+### 🧑‍💻 About Me
 
-The portfolio is live and can be viewed here: **[aditya-gupta-portfolio.vercel.app](https://your-deployed-link.com)** *(Replace with your actual link)*
+- ❤️ Working on **AI & ML** projects (academic + personal)  
+- 🎉 Learning: `Python`, `DSA`, `ML`, `Web Dev`  
+- ✨ Open to collaborate on **Web Dev** & **beginner AI/ML**  
+- 🔭 Seeking help with **advanced AI/ML & real-world projects**  
+- 🌐 Projects: [github.com/mrshauryasharma](https://github.com/mrshauryasharma)  
+- 📝 I write about: *Learning journeys, tech basics, project experiences*  
+- 💬 Ask me about: `Python basics`, `Web Dev`, `Video editing`  
+- 📧 Reach me: **shauryaofficial.in@gmail.com**  
+- 🎥 Fun fact: I mix **creativity + technology** 🎨⚙️
 
-## 🚀 About The Project
+---
 
-This portfolio is more than just a resume; it’s a dynamic, tech-infused space that reflects my passion for building at the intersection of hardware and intelligence. Built with a futuristic cyberpunk aesthetic, it highlights my "build-it-from-scratch" philosophy, from functional space-tech replicas to high-precision stabilization systems.
+### 🚀 Tech Stack (Animated Icons)
 
-### Key Features
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb,tensorflow,git,github,vscode" />
+</p>
 
-- **Futuristic UI/UX:** A responsive, glassmorphism design with animated backgrounds, neon cyan theming, and smooth scroll-triggered reveals.
-- **Comprehensive Profile:** Detailed "About Me" section that outlines my core engineering philosophy.
-- **Academic Journey:** A timeline-style presentation of my education at Gautam Buddha University and Dehradun Public School.
-- **Core Arsenal:** Showcase of my technical skills, focusing on **C, C++, Python**, Embedded Platforms (ESP32, Arduino), and AI Tools (YOLOv8, OpenCV).
-- **Flagship Projects:** A detailed, card-based list of my key engineering projects, including the major ones:
-    - 🌕 **Chandrayaan-3 Live Functional Replica**
-    - ⚙️ **Self-Balancing Cycle (Gyroscopic Stabilization)**
-    - 💣 **Remote Control Bomb Blaster (Engineered System)**
-    - 👻 **Ghost Node (Stealth Security)**
-    - *And 8+ other IoT, AI, and automation projects.*
-- **Interactive Contact Form:** A working contact form with client-side validation for easy networking.
-- **Social Links:** Direct link to my GitHub profile.
+---
 
-## 🛠️ Built With
+### 📊 GitHub Stats (Animated Cards)
 
-This project is built entirely with core web technologies to ensure performance and a custom look.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrshauryasharma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshauryasharma&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
+</p>
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshauryasharma&theme=radical&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</p>
 
-- **Font Awesome 6:** For all the crisp, tech-oriented icons.
-- **Google Fonts:** Using 'Inter' and 'Space Grotesk' for a modern, readable feel.
-- **CSS Features:** Flexbox, Grid, custom keyframe animations, backdrop-filter (glassmorphism), and Intersection Observer API for scroll reveals.
+---
 
-## 📁 Project Structure
+### 🌐 Connect with Me
 
-The portfolio is a single `index.html` file, making it easy to deploy.
+<p align="center">
+  <a href="https://twitter.com/MR_SHAURYASHARM" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117&color=1DA1F2" />
+  </a>
+  <a href="mailto:shauryaofficial.in@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=D14836" />
+  </a>
+  <a href="https://github.com/mrshauryasharma">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=181717" />
+  </a>
+</p>
 
-```text
-/
-├── index.html          # Complete portfolio HTML/CSS/JS
-└── README.md           # Project documentation (you are here)
+---
+
+### 🎮 Fun Zone: Snake eating my commits 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrshauryasharma/mrshauryasharma/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+⭐️ **From [@mrshauryasharma](https://github.com/mrshauryasharma)**
+<!-- Snake Animation - My Contributions -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrshauryasharma/mrshauryasharma/output/snake.svg" alt="Snake eating my contributions" />
+</p>
